@@ -7,7 +7,7 @@ Software Developer
 there will be dragons!
 
 *   🌍  I'm based in Jersey, Channel Islands
-*   🖥️  See my portfolio at [Portfolio/Resume](http://adrian0012.github.io/)
+*   🖥️  See my resume at [Resume](http://adrian0012.github.io/)
 *   ✉️  You can contact me at [adrian.g87@hotmail.com](mailto:adrian.g87@hotmail.com)
 
 ### Skills 
