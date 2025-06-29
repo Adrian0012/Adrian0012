@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **adrian.grigorescu.email@gmail.com**
 
-- ⚡ Fun fact **there will be dragons...**
+- ⚡ Fun fact -- **there will be dragons...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
